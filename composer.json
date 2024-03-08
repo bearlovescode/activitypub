@@ -1,0 +1,18 @@
+{
+    "name": "bearlovescode/activitypub",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Bearlovescode\\Activitypub\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nic Barr",
+            "email": "code@bearlovescode.com"
+        }
+    ],
+    "require": {
+        "illuminate/support": "^10.47"
+    }
+}
